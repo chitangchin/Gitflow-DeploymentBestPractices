@@ -1,0 +1,6 @@
+@DeploymentBestPractices.Server_HostAddress = http://localhost:5261
+
+GET {{DeploymentBestPractices.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
