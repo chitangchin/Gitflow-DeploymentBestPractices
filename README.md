@@ -44,4 +44,6 @@ I created the project in visual studio community
 - Keep in mind azure does not charge for a certain amount of deployment slots if you are using standard tier and above
 - HOWEVER, all deployment slots and production are shared resources, and on a pay as you consume model.
 
-### 3. Setting up Azure App Services
+### 3. They dont mention about branch protection rules, so I enforced it
+
+### 4. Setting up Azure App Services
